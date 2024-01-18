@@ -2,13 +2,13 @@
 TranSafe Bank is a simple and secure banking system project designed for educational purposes. It provides a basic framework for a banking application with user authentication and account management features. The login information for the initial account is as follows:
 
  Account 1
- Owner: Mohit Yadav
- Username: my
+ Owner: Mohit Yadav,
+ Username: my,
  Password (PIN): 1111
 
  Account 2
- Owner: Rohit Sharma
- Username: rs
+ Owner: Rohit Sharma,
+ Username: rs,
  Password (PIN): 2222
 
  Features
